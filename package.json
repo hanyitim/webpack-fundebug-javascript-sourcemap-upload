@@ -1,6 +1,6 @@
 {
   "name": "webpack-fundebug-javascript-sourcemap-upload",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "before compiler.hooks.emit upload sourcemap to fundebug",
   "main": "./dist/index.js",
   "scripts": {
